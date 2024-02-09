@@ -1,0 +1,7 @@
+coverage==7.4.0
+html_testRunner==1.2.1
+HTMLTestRunner==0.8.0
+HtmlTestRunner==0.8.0
+HTMLTestRunner_rv==1.1.2
+matplotlib==3.8.2
+pandas==2.2.0
