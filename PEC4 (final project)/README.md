@@ -1,6 +1,8 @@
 
 # PEC4
 
+This is the fourth and final project developed during the course and it was worth 30/100 points of the final grade. Out of the 30 total points I got 29,4 (A), ranking on top of the class, since the average grade was 17,15.
+
 Este proyecto se corresponde con la última PEC de la asignatura. En esta PEC se nos dan 3 datasets, a partir de los cuales se han desarrollado funciones con código Python que dan respuesta a las preguntas enunciadas en el archivo `ES-PEC4-PabloSuarezReyero-SOLUCION.ipynb`. En este último, uno puede encontrar explicaciones adicionales acerca de cada una de las implementaciones asociadas a cada uno de los ejercicios.
 
 ## Organización
